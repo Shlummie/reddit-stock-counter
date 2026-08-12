@@ -1,0 +1,8 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+settings.json
+stock_mentions.csv
+ticker_sentiment.csv
